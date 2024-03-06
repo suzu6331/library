@@ -1,6 +1,7 @@
 //998244353,3
 //469762049,3
 //167772161,3
+//ACLのatcoder::convolutionで実装可能
 #include<vector>
 template<int mod,int proot>
 struct NTT{
